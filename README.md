@@ -1,74 +1,92 @@
+<div align="center">
+
 # Hi, I'm Eman Iqbal 👋
+### I build AI agents, fullstack web apps, and developer tools — all shipped to production.
 
-### Fullstack Developer & Agentic AI Engineer
-#### Karachi, Pakistan  Open for Intern & Remote Roles
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-one-tan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eman-iqbal-4954a7395)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~eman_iqbal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaniqbal907@gmail.com)
 
----
-
-### 🤖 What I Build
-
-- **Autonomous AI Agents** — OpenAI Agents SDK, MCP, Kafka
-- **RAG Systems** — Qdrant, Neon PostgreSQL, FastAPI
-- **Fullstack Web Apps** — Next.js, FastAPI, Docker
-- **Open Source Tools** — 12 TypeScript packages on NPM
+</div>
 
 ---
 
-### 🏆 Featured Projects
+## 🧠 What I Build
 
-| Project | Description | Live |
-|---------|-------------|------|
-| CRM Digital FTE Factory | AI employee handling Gmail, WhatsApp, ODOO | [Demo](https://youtu.be/WlHItrNs8Z8) |
-| Humanoid Robotics Textbook | Free textbook with live RAG AI Tutor | [Live](https://ai-native-book-ruddy.vercel.app) |
-| TodoFlow | Fullstack AI task manager | [Live](https://tobo-app-chatbot.vercel.app) |
-| 12 NPM Packages | TypeScript CLI tools | [NPM](https://npmjs.com/~eman_iqbal) |
+I design and ship systems at the intersection of **AI agents**, **fullstack engineering**, and **developer tooling**. My work ranges from multi-agent CRM pipelines powered by Kafka and OpenAI, to RAG-based AI tutors, to 12 published TypeScript packages on NPM — all deployed, all production-grade.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**AI & Agentic:**
-OpenAI Agents SDK • MCP • RAG • Claude Code • Gemini CLI • Qdrant • Chainlit
-
-**Backend:**
-FastAPI • PostgreSQL • Neon DB • Kafka • SQLModel • Docker
-
-**Frontend:**
-Next.js 15 • Frame motion • Tailwind CSS • TypeScript 
-
-**Cloud:**
-Vercel • Google Cloud • Hugging Face • GitHub Pages
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🤖 **CRM Digital FTE Factory** | Multi-agent AI pipeline replacing repetitive CRM workflows using autonomous agents | OpenAI Agents SDK · Kafka · Docker · MCP | [GitHub](https://github.com/EmanIqbal620/Full-Time-AI-Employee) · [Demo ▶](https://youtu.be/WlHItrNs8Z8) |
+| 📚 **AI-Native Robotics Textbook** | Production Docusaurus textbook with a live RAG AI tutor that answers questions from the book | Docusaurus · RAG · Qdrant · FastAPI · Neon | [GitHub](https://github.com/EmanIqbal620/ai-native-book) · [Live ↗](https://ai-native-book-ruddy.vercel.app) |
+| ✅ **TodoFlow — AI Task Manager** | Fullstack task manager with AI chat, JWT auth, and a FastAPI backend | Next.js 15 · FastAPI · Better Auth · Docker | [GitHub](https://github.com/EmanIqbal620/tobo-app-chatbot) · [Live ↗](https://tobo-app-chatbot.vercel.app) |
+| 🌷 **Tulip E-Commerce** | Full e-commerce storefront with CMS-managed inventory and cart | Next.js · Sanity CMS · Tailwind | [GitHub](https://github.com/EmanIqbal620/tulip-E-commerce-web) · [Live ↗](https://tulip-e-commerce-web-42fy.vercel.app) |
+| 💬 **AI Chat — Chainlit + Gemini** | Conversational AI interface deployed on Hugging Face Spaces | Chainlit · Python · Gemini API | [GitHub](https://github.com/EmanIqbal620/chainlit) · [Live ↗](https://emaniqbal-chainlit1.hf.space) |
+| 📦 **12 NPM Packages** | Published TypeScript CLI and utility packages with 12 active releases on NPM | TypeScript · CLI · Inquirer · Chalk | [NPM ↗](https://www.npmjs.com/~eman_iqbal) |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanIqbal620&show_icons=true&theme=dark)
+**AI & Agentic Systems**
+`OpenAI Agents SDK` `MCP` `RAG` `Qdrant` `Chainlit` `OpenAI API` `Gemini API` `Gemini CLI` `Claude Code`
+
+**Backend**
+`FastAPI` `PostgreSQL` `Neon Database` `Kafka` `SQLModel` `Docker` `Kubernetes` `Webhook` `ODOO`
+
+**Frontend**
+`Next.js 14` `Bootstrap` `Custom CSS` `TypeScript` `Tailwind CSS` `Streamlit`
+
+**Auth**
+`Clerk` `Better Auth` `JWT`
+
+**CMS & Docs**
+`Sanity CMS` `Docusaurus`
+
+**DevOps & Cloud**
+`Docker` `Kubernetes` `Vercel` `Google Cloud` `Hugging Face` `GitHub Pages`
+
+**Languages**
+`Python` `TypeScript` `JavaScript`
 
 ---
 
-### 🔗 Connect
+## 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://portfolio2-one-tan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eman-iqbal-4954a7395)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm)](https://npmjs.com/~eman_iqbal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:emaniqbal907@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanIqbal620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanIqbal620&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmanIqbal620&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-**Open for intern and remote roles worldwide 💼**
+## 🏆 Highlights
 
-<!--
-**EmanIqbal620/EmanIqbal620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Built a **multi-agent AI pipeline** with OpenAI Agents SDK + Kafka for CRM automation
+- 📚 Shipped a **live RAG AI tutor** embedded inside a production Docusaurus textbook
+- 📦 Published **12 TypeScript packages** to NPM
+- 🏅 Completed **5 hackathons** at GIAIC
+- 🌍 All projects deployed to production and publicly accessible
+- 🔍 Currently open to **remote internships and junior roles** in AI engineering and fullstack development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+**Let's build something.**
+[📬 Email me](mailto:emaniqbal907@gmail.com) · [🌐 See my portfolio](https://portfolio2-one-tan.vercel.app) · [💼 Connect on LinkedIn](https://linkedin.com/in/eman-iqbal-4954a7395)
+
+</div>
